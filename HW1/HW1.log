@@ -1,0 +1,10 @@
+score: 8.25
+Q1: 2.75 Outer loop should run to n, combined is n(n-1). Induction step is
+         incomplete. You can't assume everything in A[(n-k+1) .. n] is sorted
+         from assuming k. Use bubble sort algorithm to prove. 
+Q2: 0.5 Induction proof is incorrect. Try assuming the base case and explain what happens when you add the n+1 to it. (How does the number of odd and even subsets vary?)
+Q3: 2
+Q4: 2
+Q5: 1 Requires further observations. Look into invariants or induction. 
+
+Total score out of 10: 7.17

@@ -1,0 +1,6 @@
+Q1: 1/1
+Q2: 0.25/1--incorrect, not enough justification
+Q3: 0.5/1--brute force
+Q4: 0.66/2.33--brute force, incorrect runtime
+Q5: 2.33/2.33
+Q6: 0.25/2.33
